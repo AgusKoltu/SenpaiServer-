@@ -680,63 +680,72 @@
       "equipo": "Toro",
       "imagen": "Toro",
       "nombre": "Toro Chino",
-      "fecha": 8 
+      "fecha": 8,
+      "disponible": true 
     },
     {
       "id": 2,
       "equipo": "Romario",
       "imagen": "Romario",
       "nombre": "Deportivo Romario",
-      "fecha": 7 
+      "fecha": 7,
+      "disponible": true
     },
     {
       "id": 3,
       "equipo": "Funebreros",
       "imagen": "funebreros",
       "nombre": "Funebreros",
-      "fecha": 6 
+      "fecha": 6,
+      "disponible": true
     },
     {
       "id": 4,
       "equipo": "Stark",
       "imagen": "Stark",
       "nombre": "Stark",
-      "fecha": 5
+      "fecha": 5,
+      "disponible": true
     },
     {
       "id": 5,
       "equipo": "Insein",
       "imagen": "Insein",
       "nombre": "Insein",
-      "fecha": 4
+      "fecha": 4,
+      "disponible": true
     },
     {
       "id": 6,
       "equipo": "Vamos",
       "imagen": "vamo",
       "nombre": "Del Vamos",
-      "fecha": 3
+      "fecha": 3,
+      "disponible": true
     },
     {
       "id": 7,
       "equipo": "Vagoneta",
       "imagen": "vagoneta",
       "nombre": "La Vagoneta",
-      "fecha": 2
+      "fecha": 2,
+      "disponible": true
     },
     {
       "id": 8,
       "equipo": "default",
       "imagen": "salus",
       "nombre": "El Salus",
-      "fecha": 9
+      "fecha": 9,
+      "disponible": false
     },
     {
       "id": 8,
       "equipo": "default",
       "imagen": "tokio",
       "nombre": "Tokio",
-      "fecha": 10
+      "fecha": 10,
+      "disponible": false
     }
    
 
