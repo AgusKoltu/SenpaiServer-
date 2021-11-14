@@ -1,0 +1,749 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+    "productos": [
+    {
+      "id": 1,
+      "nombre": "producto 1",
+      "precio": 100,
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Jarra Esmerilada",
+      "precio": 250,
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Torpe Chela",
+      "precio": 150,
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Torpe Taza",
+      "precio": 200,
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Jarra Cervecera",
+      "precio": 250,
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Destapador",
+      "precio": 120,
+      "cantidad": 1
+    }
+  ],
+  "imagenes": [
+    {
+      "id": 1,
+      "equipo": "Toro",
+      "foto": 1
+    
+    },
+    {
+      "id": 2,
+      "equipo": "Toro",
+      "foto": 2
+    },
+    {
+      "id": 3,
+      "equipo": "Toro",
+      "foto": 3
+    
+    },
+    {
+      "id": 4,
+      "equipo": "Toro",
+      "foto": 4
+    },
+    {
+      "id": 5,
+      "equipo": "Toro",
+      "foto": 5
+    
+    },
+    {
+      "id": 6,
+      "equipo": "Toro",
+      "foto": 6
+    },
+    {
+      "id": 7,
+      "equipo": "Toro",
+      "foto": 7
+    
+    },
+    {
+      "id": 8,
+      "equipo": "Toro",
+      "foto": 8
+    },
+    {
+      "id": 9,
+      "equipo": "Toro",
+      "foto": 9
+    
+    },
+    {
+      "id": 10,
+      "equipo": "Toro",
+      "foto": 10
+    },
+    {
+      "id": 11,
+      "equipo": "Toro",
+      "foto": 11
+    
+    },
+    {
+      "id": 12,
+      "equipo": "Toro",
+      "foto": 12
+    },
+    {
+      "id": 13,
+      "equipo": "Toro",
+      "foto": 13
+    
+    },
+    {
+      "id": 14,
+      "equipo": "Toro",
+      "foto": 14
+    },
+    {
+      "id": 15,
+      "equipo": "Toro",
+      "foto": 15
+  
+    },
+    {
+      "id": 16,
+      "equipo": "Toro",
+      "foto": 16
+    },
+    {
+      "id": 17,
+      "equipo": "Insein",
+      "foto": 1
+    
+    },
+    {
+      "id": 18,
+      "equipo": "Insein",
+      "foto": 2
+    },
+    {
+      "id": 19,
+      "equipo": "Insein",
+      "foto": 3
+    
+    },
+    {
+      "id": 20,
+      "equipo": "Insein",
+      "foto": 4
+    },
+    {
+      "id": 21,
+      "equipo": "Insein",
+      "foto": 5
+    
+    },
+    {
+      "id": 22,
+      "equipo": "Insein",
+      "foto": 6
+    },
+    {
+      "id": 23,
+      "equipo": "Insein",
+      "foto": 7
+    
+    },
+    {
+      "id": 24,
+      "equipo": "Insein",
+      "foto": 8
+    },
+    {
+      "id": 25,
+      "equipo": "Insein",
+      "foto": 9
+    
+    },
+    {
+      "id": 26,
+      "equipo": "Insein",
+      "foto": 10
+    },
+    {
+      "id": 27,
+      "equipo": "Insein",
+      "foto": 11
+    
+    },
+    {
+      "id": 28,
+      "equipo": "Insein",
+      "foto": 12
+    },
+    {
+      "id": 29,
+      "equipo": "Insein",
+      "foto": 13
+    
+    },
+    {
+      "id": 30,
+      "equipo": "Insein",
+      "foto": 14
+    },
+    {
+      "id": 31,
+      "equipo": "Insein",
+      "foto": 15
+  
+    },
+    {
+      "id": 32,
+      "equipo": "Insein",
+      "foto": 16
+    },
+    {
+      "id": 33,
+      "equipo": "Vamos",
+      "foto": 1
+    
+    },
+    {
+      "id": 34,
+      "equipo": "Vamos",
+      "foto": 2
+    },
+    {
+      "id": 35,
+      "equipo": "Vamos",
+      "foto": 3
+    
+    },
+    {
+      "id": 36,
+      "equipo": "Vamos",
+      "foto": 4
+    },
+    {
+      "id": 37,
+      "equipo": "Vamos",
+      "foto": 5
+    
+    },
+    {
+      "id": 38,
+      "equipo": "Vamos",
+      "foto": 6
+    },
+    {
+      "id": 39,
+      "equipo": "Vamos",
+      "foto": 7
+    
+    },
+    {
+      "id": 40,
+      "equipo": "Vamos",
+      "foto": 8
+    },
+    {
+      "id": 41,
+      "equipo": "Vamos",
+      "foto": 9
+    
+    },
+    {
+      "id": 42,
+      "equipo": "Vamos",
+      "foto": 10
+    },
+    {
+      "id": 43,
+      "equipo": "Vamos",
+      "foto": 11
+    
+    },
+    {
+      "id": 44,
+      "equipo": "Vamos",
+      "foto": 12
+    },
+    {
+      "id": 45,
+      "equipo": "Vamos",
+      "foto": 13
+    
+    },
+    {
+      "id": 46,
+      "equipo": "Vamos",
+      "foto": 14
+    },
+    {
+      "id": 47,
+      "equipo": "Vamos",
+      "foto": 15
+  
+    },
+    {
+      "id": 48,
+      "equipo": "Vamos",
+      "foto": 16
+    },
+    {
+      "id": 49,
+      "equipo": "Vagoneta",
+      "foto": 1
+    
+    },
+    {
+      "id": 50,
+      "equipo": "Vagoneta",
+      "foto": 2
+    },
+    {
+      "id": 51,
+      "equipo": "Vagoneta",
+      "foto": 3
+    
+    },
+    {
+      "id": 52,
+      "equipo": "Vagoneta",
+      "foto": 4
+    },
+    {
+      "id": 53,
+      "equipo": "Vagoneta",
+      "foto": 5
+    
+    },
+    {
+      "id": 54,
+      "equipo": "Vagoneta",
+      "foto": 6
+    },
+    {
+      "id": 55,
+      "equipo": "Vagoneta",
+      "foto": 7
+    
+    },
+    {
+      "id": 56,
+      "equipo": "Vagoneta",
+      "foto": 8
+    },
+    {
+      "id": 57,
+      "equipo": "Vagoneta",
+      "foto": 9
+    
+    },
+    {
+      "id": 58,
+      "equipo": "Vagoneta",
+      "foto": 10
+    },
+    {
+      "id": 59,
+      "equipo": "Vagoneta",
+      "foto": 11
+    
+    },
+    {
+      "id": 60,
+      "equipo": "Vagoneta",
+      "foto": 12
+    },
+    {
+      "id": 61,
+      "equipo": "Vagoneta",
+      "foto": 13
+    
+    },
+    {
+      "id": 62,
+      "equipo": "Vagoneta",
+      "foto": 14
+    },
+    {
+      "id": 63,
+      "equipo": "Vagoneta",
+      "foto": 15
+  
+    },
+    {
+      "id": 64,
+      "equipo": "Vagoneta",
+      "foto": 16
+    },
+    {
+      "id": 65,
+      "equipo": "Romario",
+      "foto": 1
+    
+    },
+    {
+      "id": 66,
+      "equipo": "Romario",
+      "foto": 2
+    },
+    {
+      "id": 67,
+      "equipo": "Romario",
+      "foto": 3
+    
+    },
+    {
+      "id": 68,
+      "equipo": "Romario",
+      "foto": 4
+    },
+    {
+      "id": 69,
+      "equipo": "Romario",
+      "foto": 5
+    
+    },
+    {
+      "id": 70,
+      "equipo": "Romario",
+      "foto": 6
+    },
+    {
+      "id": 71,
+      "equipo": "Romario",
+      "foto": 7
+    
+    },
+    {
+      "id": 72,
+      "equipo": "Romario",
+      "foto": 8
+    },
+    {
+      "id": 73,
+      "equipo": "Romario",
+      "foto": 9
+    
+    },
+    {
+      "id": 74,
+      "equipo": "Romario",
+      "foto": 10
+    },
+    {
+      "id": 75,
+      "equipo": "Romario",
+      "foto": 11
+    
+    },
+    {
+      "id": 76,
+      "equipo": "Romario",
+      "foto": 12
+    },
+    {
+      "id": 77,
+      "equipo": "Romario",
+      "foto": 13
+    
+    },
+    {
+      "id": 78,
+      "equipo": "Romario",
+      "foto": 14
+    },
+    {
+      "id": 79,
+      "equipo": "Romario",
+      "foto": 15
+  
+    },
+    {
+      "id": 80,
+      "equipo": "Romario",
+      "foto": 16
+    },
+    {
+      "id": 81,
+      "equipo": "Stark",
+      "foto": 1
+    
+    },
+    {
+      "id": 82,
+      "equipo": "Stark",
+      "foto": 2
+    },
+    {
+      "id": 83,
+      "equipo": "Stark",
+      "foto": 3
+    
+    },
+    {
+      "id": 84,
+      "equipo": "Stark",
+      "foto": 4
+    },
+    {
+      "id": 85,
+      "equipo": "Stark",
+      "foto": 5
+    
+    },
+    {
+      "id": 86,
+      "equipo": "Stark",
+      "foto": 6
+    },
+    {
+      "id": 87,
+      "equipo": "Stark",
+      "foto": 7
+    
+    },
+    {
+      "id": 88,
+      "equipo": "Stark",
+      "foto": 8
+    },
+    {
+      "id": 89,
+      "equipo": "Stark",
+      "foto": 9
+    
+    },
+    {
+      "id": 90,
+      "equipo": "Stark",
+      "foto": 10
+    },
+    {
+      "id": 91,
+      "equipo": "Stark",
+      "foto": 11
+    
+    },
+    {
+      "id": 92,
+      "equipo": "Stark",
+      "foto": 12
+    },
+    {
+      "id": 93,
+      "equipo": "Stark",
+      "foto": 13
+    
+    },
+    {
+      "id": 94,
+      "equipo": "Stark",
+      "foto": 14
+    },
+    {
+      "id": 95,
+      "equipo": "Stark",
+      "foto": 15
+  
+    },
+    {
+      "id": 96,
+      "equipo": "Stark",
+      "foto": 16
+    },
+    {
+      "id": 97,
+      "equipo": "Funebreros",
+      "foto": 1
+    
+    },
+    {
+      "id": 98,
+      "equipo": "Funebreros",
+      "foto": 2
+    },
+    {
+      "id": 99,
+      "equipo": "Funebreros",
+      "foto": 3
+    
+    },
+    {
+      "id": 100,
+      "equipo": "Funebreros",
+      "foto": 4
+    },
+    {
+      "id": 101,
+      "equipo": "Funebreros",
+      "foto": 5
+    
+    },
+    {
+      "id": 102,
+      "equipo": "Funebreros",
+      "foto": 6
+    },
+    {
+      "id": 103,
+      "equipo": "Funebreros",
+      "foto": 7
+    
+    },
+    {
+      "id": 104,
+      "equipo": "Funebreros",
+      "foto": 8
+    },
+    {
+      "id": 105,
+      "equipo": "Funebreros",
+      "foto": 9
+    
+    },
+    {
+      "id": 106,
+      "equipo": "Funebreros",
+      "foto": 10
+    },
+    {
+      "id": 107,
+      "equipo": "Funebreros",
+      "foto": 11
+    
+    },
+    {
+      "id": 108,
+      "equipo": "Funebreros",
+      "foto": 12
+    },
+    {
+      "id": 109,
+      "equipo": "Funebreros",
+      "foto": 13
+    
+    },
+    {
+      "id": 110,
+      "equipo": "Funebreros",
+      "foto": 14
+    },
+    {
+      "id": 111,
+      "equipo": "Funebreros",
+      "foto": 15
+  
+    },
+    {
+      "id": 112,
+      "equipo": "Funebreros",
+      "foto": 16
+    }
+    
+  ],
+
+
+
+
+  "rivales": [
+    {
+      "id": 1,
+      "equipo": "Toro",
+      "imagen": "Toro",
+      "nombre": "Toro Chino",
+      "fecha": 8 
+    },
+    {
+      "id": 2,
+      "equipo": "Romario",
+      "imagen": "Romario",
+      "nombre": "Deportivo Romario",
+      "fecha": 7 
+    },
+    {
+      "id": 3,
+      "equipo": "Funebreros",
+      "imagen": "funebreros",
+      "nombre": "Funebreros",
+      "fecha": 6 
+    },
+    {
+      "id": 4,
+      "equipo": "Stark",
+      "imagen": "Stark",
+      "nombre": "Stark",
+      "fecha": 5
+    },
+    {
+      "id": 5,
+      "equipo": "Insein",
+      "imagen": "Insein",
+      "nombre": "Insein",
+      "fecha": 4
+    },
+    {
+      "id": 6,
+      "equipo": "Vamos",
+      "imagen": "vamo",
+      "nombre": "Del Vamos",
+      "fecha": 3
+    },
+    {
+      "id": 7,
+      "equipo": "Vagoneta",
+      "imagen": "vagoneta",
+      "nombre": "La Vagoneta",
+      "fecha": 2
+    },
+    {
+      "id": 8,
+      "equipo": "default",
+      "imagen": "salus",
+      "nombre": "El Salus",
+      "fecha": 9
+    },
+    {
+      "id": 8,
+      "equipo": "default",
+      "imagen": "tokio",
+      "nombre": "Tokio",
+      "fecha": 10
+    }
+   
+
+   
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
